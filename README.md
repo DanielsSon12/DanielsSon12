@@ -1,16 +1,25 @@
-### Hi there 👋
+  ## Ooie!! Eu sou o Daniel Ouverney :)
 
-<!--
-**DanielsSon12/DanielsSon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo HTML
+- ✏️ Estudo no CEFET-NF
+- 🖥️ Curso: informática
+- 📧 E-mail: danielouverney67@gmail.com
+   
+## Sobre mim:
 
-Here are some ideas to get you started:
+- 📅 12/05/2006
+- ✨ Signo: Touro
+- 🎮 Gosto de Jogar
+- 🍔 Comida favorita: Pão de Queijo
+- 🐱 Tenho uma gata chamada Mel
+- 😊 Pronomes: ele/dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/DanielsSon12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielsSon12&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielsSon12&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>      
