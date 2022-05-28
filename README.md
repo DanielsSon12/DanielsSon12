@@ -5,7 +5,7 @@
 - 🖥️ Curso: informática
 - 📧 E-mail: danielouverney67@gmail.com
    
-## Sobre mim:
+## Fatos sobre mim:
 
 - 📅 12/05/2006
 - ✨ Signo: Touro
