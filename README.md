@@ -1,19 +1,9 @@
-  ## Ooie!! Eu sou o Daniel Ouverney :)
+  ##  Me chamo Daniel Ouverney.
 
-- 🌱 Atualmente estou aprendendo HTML
 - ✏️ Estudo no CEFET-NF
 - 🖥️ Curso: informática
 - 📧 E-mail: danielouverney67@gmail.com
    
-## Fatos sobre mim:
-
-- 📅 12/05/2006
-- ✨ Signo: Touro
-- 🎮 Gosto de Jogar
-- 🍔 Comida favorita: Pão de Queijo
-- 🐱 Tenho uma gata chamada Mel
-- 😊 Pronomes: ele/dele
-
 
 <div align="center">
   <a href="https://github.com/DanielsSon12">
