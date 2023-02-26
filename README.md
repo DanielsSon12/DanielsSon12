@@ -1,6 +1,6 @@
-  ##  Me chamo Daniel Ouverney.
+  ##  Olá, me chamo Daniel.
 
-- ✏️ Estudo no CEFET-RJ NF / 1º ano
+- ✏️ Estudo no CEFET-RJ NF / 2º ano
 - 🖥️ Curso: informática
 - 📧 E-mail: danielouverney67@gmail.com
    
