@@ -1,6 +1,6 @@
   ##  Olá, me chamo Daniel.
 
-- ✏️ Estudo no CEFET-RJ NF / 2º ano
+- ✏️ Estudo no CEFET-RJ NF / 3º ano
 - 🖥️ Curso: informática
 - 📧 E-mail: danielouverney67@gmail.com
    
