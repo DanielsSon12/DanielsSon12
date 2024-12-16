@@ -1,7 +1,7 @@
-  ##  Olá, me chamo Daniel.
+  ##  Olá, me chamo Daniel!
 
-- ✏️ Estudo no CEFET-RJ NF / 3º ano
-- 🖥️ Curso: informática
+- 🐱‍🐉 FrontEnd;
+- 🐱‍💻 Fiz o Ensino Médio no CEFET-RJ de NF cursando o Técnico Integrado de Informática;
 - 📧 E-mail: danielouverney67@gmail.com
    
 
