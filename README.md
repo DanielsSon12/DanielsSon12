@@ -1,8 +1,8 @@
   ##  Olá, me chamo Daniel!
 
-- 🐱‍💻 Cursando a Faculdade de Sistemas de Informação no CEFET-RJ/NF;
+- 🖥️ Cursando a Faculdade de Sistemas de Informação no CEFET-RJ/NF;
 - 📧 E-mail: danielouverney67@gmail.com
-- 🐱‍🐉 FrontEnd;
+- 🎨 FrontEnd;
    
 
 <div align="center">
