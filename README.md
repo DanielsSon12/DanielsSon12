@@ -19,17 +19,21 @@
   <hr>
 
   <div align="center">
+  <br>
 
   ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=B309FF&center=true&width=500&height=40&lines=Contact%2FSocial%3A" alt="Typing SVG" /></a>
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielsSon12)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniell_ouverney?igsh=YXBqYXMwbHZydWZ5)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-ouverney-b77847346)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danielouverney67@gmail.com)   
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danielouverney67@gmail.com)
+
+  <br>   
   </div>
 
   <hr> 
 
   <div align="center">
+  <br>
 
   ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=B309FF&center=true&width=500&height=40&lines=Skills%3A" alt="Typing SVG" /></a>
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
