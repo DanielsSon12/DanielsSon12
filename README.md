@@ -16,41 +16,41 @@
   #
   ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=839958&center=true&width=500&height=40&lines=About+me%3A" alt="Typing SVG" /></a>
 
-<table align="center">
-<tr>
-<td>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+19y" />
-</a>
-
-<br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Cursando+faculdade+de+Sistemas+de+Informa%C3%A7%C3%A3o" />
-</a>
-
-<br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Front-End" />
-</a>
-
-</td>
-
-<td>
-  <img width="180px" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
-</td>
-
-</tr>
-</table>
-
-<hr>
+  <table align="center">
+  <tr>
+  <td>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+19y" />
+  </a>
+  
+  <br>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Cursando+faculdade+de+Sistemas+de+Informa%C3%A7%C3%A3o" />
+  </a>
+  
+  <br>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Front-End" />
+  </a>
+  
+  </td>
+  
+  <td>
+    <img width="180px" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
+  </td>
+  
+  </tr>
+  </table>
+  
+  <hr>
 
   <div align="center">
   <br>
 
-  ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=839958&center=true&width=500&height=40&lines=Contact%2FSocial%3A" alt="Typing SVG" /></a>
+  ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=839958&center=true&width=500&height=40&lines=Contact%2FSocial%3A" alt="Typing SVG" /></a>
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielsSon12)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniell_ouverney?igsh=YXBqYXMwbHZydWZ5)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-ouverney-b77847346)
