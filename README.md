@@ -13,8 +13,7 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&letterSpacing=2px&duration=2000&pause=30000&color=F7F4D5&center=true&width=700&height=40&lines=Bem+vindo(a)%2C+me+chamo+Daniel+Ouverney!" alt="Typing SVG" /></a>
   
-  <hr>
-  
+  #
   ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=839958&center=true&width=500&height=40&lines=About+me%3A" alt="Typing SVG" /></a>
 
   <table align="center">
@@ -46,11 +45,11 @@
   </tr>
   </table>
   
-  <hr>
 
   <div align="center">
   <br>
 
+  #
   ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=839958&center=true&width=500&height=40&lines=Contact%2FSocial%3A" alt="Typing SVG" /></a>
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielsSon12)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniell_ouverney?igsh=YXBqYXMwbHZydWZ5)
@@ -60,11 +59,11 @@
   <br>   
   </div>
 
-  <hr> 
 
   <div align="center">
   <br>
 
+  #
   ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=839958&center=true&width=500&height=40&lines=Skills%3A" alt="Typing SVG" /></a>
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
