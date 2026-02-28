@@ -16,7 +16,7 @@
   #
   ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=2000&pause=30000&color=839958&center=true&width=500&height=40&lines=About+me%3A" alt="Typing SVG" /></a>
 
-  <div style="display:flex; align-items:center;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
   <div style="display:flex; flex-direction: column;">
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+19y" alt="Typing SVG" /></a>
