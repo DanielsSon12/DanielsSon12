@@ -45,12 +45,6 @@
 </tr>
 </table>
 
-
-  </div>
-
-
-  <hr>
-
   <div align="center">
   <br>
 
