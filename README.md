@@ -7,7 +7,7 @@
   <!-- <div align="center">
     <img width=12% src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"/>  
   </div> -->
-<!--
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=header"/>
   <div align="center">
 
@@ -98,13 +98,5 @@
   </div>
   <br>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=footer"/> -->
-
- <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/DanielsSon12/GithubProfiles/main/README_4.svg" 
-    width="100%" 
-    alt="Daniel Terminal Profile"
-  />
-</p>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=footer"/>
 
