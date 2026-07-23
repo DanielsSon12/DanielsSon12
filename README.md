@@ -31,6 +31,12 @@
   </a>
   
   <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Front+-+End" />
+  </a>
+  
+  <br>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Em+constante+aprendizado+..." />
