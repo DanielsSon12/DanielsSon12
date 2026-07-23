@@ -97,5 +97,6 @@
     <img src="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/main/imgs/green.gif" width="100%" alt="green">
   </div>
   <br>
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=footer"/>
+
+#
+  <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=footer"/>-->
