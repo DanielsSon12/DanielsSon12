@@ -93,7 +93,7 @@
 #
 
   <br>
-  <img width="2000" height="315" alt="green" src="[./imgs/green.gif](https://github.com/DanielsSon12/DanielsSon12/blob/main/imgs/green.gif)" /> 
+  <img width="2000" height="315" alt="green" src="https://github.com/DanielsSon12/DanielsSon12/blob/main/imgs/green.gif" /> 
   <br>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=footer"/>
