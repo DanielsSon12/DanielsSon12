@@ -101,5 +101,9 @@
   </div>
   <br>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=footer"/>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake.svg">
+</picture>
 
