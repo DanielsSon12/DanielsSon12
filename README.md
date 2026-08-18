@@ -4,10 +4,6 @@
 <!-- #D3968C-->
 <!-- #105666 -->
 
-  <!-- <div align="center">
-    <img width=12% src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"/>  
-  </div> -->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=header"/>
   <div align="center">
 
