@@ -1,10 +1,18 @@
-<!-- #F7F4D5 -->
+<!-- #F7F4D5
 <!-- #0A3323 -->
 <!-- #839958 -->
 <!-- #D3968C-->
 <!-- #105666 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=header"/>
+<div align="center">
+    <img
+        src="./assets/terminal.svg"
+        width="100%"
+        alt="Daniel's GitHub profile terminal"
+    >
+</div>
+
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=header"/>
   <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&letterSpacing=2px&duration=4000&pause=30000&color=F7F4D5&center=true&width=700&height=40&lines=Bem+vindo(a)%2C+me+chamo+Daniel+Ouverney!" alt="Typing SVG" /></a>
@@ -101,5 +109,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake.svg">
-</picture>
-
+</picture> -->
