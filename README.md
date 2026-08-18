@@ -93,7 +93,7 @@
 
   <br>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/main/imgs/green.gif" width="70%" alt="green">
+    <img src="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/main/imgs/green.gif" width="60%" alt="green">
   </div>
   <br>
 
