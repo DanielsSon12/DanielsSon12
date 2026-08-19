@@ -1,74 +1,39 @@
-<!-- #F7F4D5
-<!-- #0A3323 -->
-<!-- #839958 -->
-<!-- #D3968C-->
-<!-- #105666 -->
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake.svg">
+</picture>
+<div align="center">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=839958&fontAlign=0&descAlign=51&reversal=false&section=header"/>
-  <div align="center">
+### <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=4000&pause=30000&color=1572B6C&center=true&width=500&height=40&lines=Olá!+Seja+Bem+vindo(a)+!" alt="Typing SVG" /></a>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&letterSpacing=2px&duration=4000&pause=30000&color=F7F4D5&center=true&width=700&height=40&lines=Bem+vindo(a)%2C+me+chamo+Daniel+Ouverney!" alt="Typing SVG" /></a>
 
-#
+<span style="font-weight: bold; font-size: 25px;" >S</span>ou estudante de Bacharelado em Sistemas de Informação no CEFET/RJ – Campus Nova Friburgo, com formação técnica integrada em Informática. Tenho conhecimentos em desenvolvimento Front-End e Back-End, com maior afinidade pelo Front-End, utilizando HTML5, CSS3, SCSS/SASS, JavaScript, React, TypeScript, Vite e Tailwind CSS. Sou uma pessoa paciente, organizada e atenta aos detalhes. Sempre gostei de arte, especialmente desenho e pintura, o que contribuiu para desenvolver um olhar visual que aplico no desenvolvimento de interfaces. Busco constantemente aprender novas tecnologias, aprimorar minhas habilidades e aplicar boas práticas de desenvolvimento. Também possuo conhecimentos em PHP, C, C++, SQL, MySQL, Git e GitHub. Atuei como estagiário na Subprefeitura do CEFET/RJ, desenvolvendo atividades administrativas e gestão de redes sociais. Atualmente, trabalho como Jovem Aprendiz na JESCRI de Friburgo Moda Íntima Ltda., como Auxiliar de Produção, mas tenho interesse e procuro um emprego na área de TI.
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=4000&pause=30000&color=839958&center=true&width=500&height=40&lines=About+me%3A" alt="Typing SVG" /></a>
+<br>
 
-  <table align="center">
-  <tr>
-  <td>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+20y" />
-  </a>
-  
-  <br>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Cursando+faculdade+de+Sistemas+de+Informa%C3%A7%C3%A3o" />
-  </a>
-  
-  <br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Front+-+End" />
-  </a>
-  
-  <br>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=15000&color=F7F4D5&width=435&height=30&lines=%3E+Em+constante+aprendizado+..." />
-  </a>
-  
-  </td>
-  
-  <td>
-    <img width="180px" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
-  </td>
-  
-  </tr>
-  </table>
+<div align="center">
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=4000&pause=30000&color=1572B6&center=true&width=500&height=40&lines=Contact/Social" alt="Typing SVG" /></a>
 
-  <div align="center">
-  <br>
-
-#
-
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=4000&pause=30000&color=839958&center=true&width=500&height=40&lines=Contact%2FSocial%3A" alt="Typing SVG" /></a>
+---
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielsSon12)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniell_ouverney?igsh=YXBqYXMwbHZydWZ5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ouverney-b77847346)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielouverney67@gmail.com)
 
-  <br>   
-  </div>
+</div>
 
-  <div align="center">
-  <br>
+<br>
 
-#
+<div align="center">
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=4000&pause=30000&color=1572B6&center=true&width=500&height=40&lines=Skills:" alt="Typing SVG" /></a>
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=4000&pause=30000&color=839958&center=true&width=500&height=40&lines=Skills%3A" alt="Typing SVG" /></a>
+---
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -85,20 +50,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+</div>
 
-  <br>
-  </div>
+<div align="center">
+    <img width=60% src="./imgs/koi.gif" alt="Koi"/>
+</div>
 
-#
-
-  <br>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/main/imgs/green.gif" width="60%" alt="green">
-  </div>
-  <br>
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake.svg">
-</picture>
+<br>
