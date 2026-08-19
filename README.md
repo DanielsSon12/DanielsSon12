@@ -1,3 +1,4 @@
+ ---
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielsSon12/DanielsSon12/output/snake.svg">
@@ -61,3 +62,5 @@
 </div>
 
 <br>
+
+---
