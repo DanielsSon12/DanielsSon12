@@ -20,11 +20,10 @@
 
 <br>
 
+---
 
 <div align="center">
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=4000&pause=30000&color=1572B6&center=true&width=500&height=40&lines=Contact/Social" alt="Typing SVG" /></a>
-
----
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielsSon12)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniell_ouverney?igsh=YXBqYXMwbHZydWZ5)
@@ -35,10 +34,10 @@
 
 <br>
 
-<div align="center">
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=4000&pause=30000&color=1572B6&center=true&width=500&height=40&lines=Skills:" alt="Typing SVG" /></a>
-
 ---
+
+<div align="center">
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=2px&duration=4000&pause=30000&color=1572B6&center=true&width=500&height=40&lines=Skills" alt="Typing SVG" /></a>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
